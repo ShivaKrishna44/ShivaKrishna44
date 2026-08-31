@@ -1,7 +1,7 @@
 # Hi 👋, I'm Shiva Krishna
 
 - 🔭 **Current Focus:** Actively designing enterprise GitOps architectures, multi-region Cloud Infrastructure, and AI-driven DevOps solutions.
-- 💼 **Job Status:** Open to **Remote** and **Contract** DevOps / Cloud Engineering opportunities.
+- 💼 **Job Status:** Open to **Remote** ,**Full time** and **Contract** DevOps / Cloud Engineering opportunities.
 - ⚡ **Fun Fact:** I love automating complex infrastructure to achieve zero-downtime deployment pipelines.
 
 ---
