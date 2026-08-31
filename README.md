@@ -11,24 +11,6 @@
 
 ---
 
-## 🛠️ Languages and Tools:
-<p align="left">
-  <!-- Languages -->
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
-  
-  <!-- Frontend / Backend Frameworks -->
-  <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
-  
-  <!-- Tools & Cloud -->
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="docker" width="40" height="40"/>
-</p>
-
----
-
 ## 🤝 Connect with me:
 [[![LinkedIn](https://shields.io)][Your LinkedIn Link]
 [![Email](https://shields.io)](mailto:your.email@example.com)](https://www.linkedin.com/in/shiva-krishna-80bb34375/)
