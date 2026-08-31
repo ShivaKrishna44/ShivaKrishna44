@@ -28,8 +28,8 @@
 ---
 
 ## 🤝 Connect with me:
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/shiva-krishna-80bb34375/))
-[![Email](https://shields.io)](mailto: vosukula1309@gmail.com)
+[![LinkedIn](https://shields.io)] ([https://linkedin.com](https://www.linkedin.com/in/shiva-krishna-80bb34375/))
+[![Email](https://shields.io)] (mailto: vosukula1309@gmail.com)
 
 ---
 
